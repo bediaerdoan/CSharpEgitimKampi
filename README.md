@@ -36,7 +36,7 @@ Ortalama hesaplayıp geçme durumlarını belirledim.
 Kodları daha düzenli ve tekrar kullanılabilir hale getirmek için parametreli ve geri dönüşlü metotlar oluşturdum.
 Karmaşık algoritmalar geliştirerek fonksiyonel programlamaya adım attım.
 
-
+![Ekran görüntüsü 2025-07-03 214026](https://github.com/user-attachments/assets/777ca7c0-dd8b-49bd-a789-c684a61c9f57)
 
 💻 Proje 9: Entity Framework ile Analiz Paneli
 Bu projede, Entity Framework kullanarak seyahat temalı bir veritabanındaki kayıtları sorguladım ve Windows Forms tabanlı dinamik bir analiz arayüzü geliştirdim.
